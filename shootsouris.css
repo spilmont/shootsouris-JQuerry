@@ -1,0 +1,60 @@
+#plateau{
+    background-image: url("https://mestring.no/wp-content/uploads/2015/09/Himmel-og-skyer-1280x7251.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98.5vw;
+    height: 98.3vh;
+    margin:auto;
+    cursor: url(Viseur.png),pointer;
+
+}
+
+#start{
+
+    position: relative;
+    left: 20vw;
+    top: 50vh;
+    font-size: 3em;
+
+}
+#chauvesouris{
+    position: relative;
+    left: 38vw;
+    top: 35vh;
+}
+
+#score{
+    margin-left: 20px;
+
+    font-size: 2em;
+    float: left;
+}
+#seconde{
+    margin-right: 20px;
+
+    font-size: 2em;
+    float: right;
+
+}
+h1{
+    position: relative;
+    top :5vh;
+    font-size:3em ;
+    text-align:center
+
+}
+
+#me{position: relative;
+    left: 28vw;
+    top: 70vh;
+    font-size: 2em;
+}
+#ecranScore{
+    background-image: url("https://mestring.no/wp-content/uploads/2015/09/Himmel-og-skyer-1280x7251.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98.5vw;
+    height: 98.3vh;
+    margin:auto;
+    cursor: url(Viseur.png),pointer;
+}
