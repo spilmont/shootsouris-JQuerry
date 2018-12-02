@@ -45,7 +45,7 @@ h1{
 }
 
 #me{position: relative;
-    left: 28vw;
+    left: 29vw;
     top: 70vh;
     font-size: 2em;
 }
@@ -57,4 +57,19 @@ h1{
     height: 98.3vh;
     margin:auto;
     cursor: url(Viseur.png),pointer;
+    display: none;
+}
+
+#meScore{
+    position: relative;
+    left: 37vw;
+    top: 80vh;
+    font-size: 2em;
+}
+
+#rejouer{
+    position: relative;
+    left: 46vw;
+    top: 60vh;
+    font-size: 3em;
 }
